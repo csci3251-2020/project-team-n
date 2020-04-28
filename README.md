@@ -1,6 +1,4 @@
-# This team hasn't started yet...
-
-Check back later!
-
-**Please read `tasks.md` to start your work.**
- 
+# Introduction
+This is a repo created for the course project in CSCI 3251. We have 8 tasks, mostly for getting used to how github works, including writing simple codes, trying how to do commit, and review other people's work.
+# Code
+# Contributors
