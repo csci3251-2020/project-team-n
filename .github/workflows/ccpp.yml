@@ -14,9 +14,4 @@ jobs:
     - uses: actions/checkout@v2
     - name: configure
       run: gcc code.c -o code; ./code
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    
