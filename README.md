@@ -9,3 +9,5 @@ This is a repo created for the course project in CSCI 3251. We have 8 tasks, mos
   <p>{{ stu.name }}</p>
   <p>{{ stu.content | markdownify }}</p>
 {% endfor %}
+
+Last Updated: {{ site.time }}
