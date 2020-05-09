@@ -4,8 +4,8 @@ This is a repo created for the course project in CSCI 3251. We have 8 tasks, mos
 
 # Contributors
 
-{% for student in site.stu %}
-  * < img src="{{ student.image }}" style="width: 50px; height: 50px"> @{{ stu.user }} ({{ stu.name }})
+{% for stu in site.stu %}
+  * <img src="{{ student.image }}" style="width: 50px; height: 50px"> @{{ stu.user }} ({{ stu.name }})
     * {{ stu.content | markdownify }}
 {% endfor %}
 
