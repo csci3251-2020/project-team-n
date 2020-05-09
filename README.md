@@ -4,6 +4,7 @@ This is a repo created for the course project in CSCI 3251. We have 8 tasks, mos
 ```c
 {% include_relative code.c %} 
 ```
+![](https://github.com/csci3251-2020/project-team-n/workflows/group-n-code/badge.svg)
 # Contributors
 
 {% for stu in site.stu %}
